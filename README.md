@@ -1,3 +1,56 @@
+# Hi there 👋, I'm Bernd 
+
+### 🚀 What drives me
+
+I've been building software for 35 years — from PC applications to embedded systems, IoT, and SaaS. I've watched technology shift again and again, and I know one thing for sure: stand still, and you're done.
+
+Now AI is arriving — faster than anything before. And that makes this the most exciting moment of my career.
+
+---
+
+### 
+
+* I'm using Claude agents to develop full stack software 
+* I'm using Deep Seek Harness & Deep Seek GUI to develop full stacksoftware. My personal opinion: this becomes huge
+* I'm hosting my private AI server with sglang 
+* I use them to analysze my finances - stock portfolio, real estate, crypto & P2P lending assets
+* I use them to maintain my software portfolio - bugs, new features and firther enahncements
+* I'm using Tribuo models to forecast my energy consumption - household, hvac and battery electric vehicle
+
+---
+
+### 💻 Tech Stack & Tools
+
+* **Languages & Core:** Java, C++, Python, JavaScript
+* **Architecture & Quality:** ASPICE, REST APIs, Microservices, Agile Product Management (PSPO I, PSPO-AI)
+* **Smart Home & IoT:** openHAB (Bindings, UI Dashboards), EEBUS Protocol, InfluxDB, Tibber API
+* **Infrastructure & DevOps:** Docker, Kubernetes, Linux (Ubuntu), Git, Local AI Testing Environments (Ollama, Open WebUI, n8n, LiteLLM)
+* **AI 
+---
+
+### 🛠️ Open Source & Community
+
+I am actively involved in the **openHAB** ecosystem, focusing on integrations, smart metering, and Home Energy Management System (HEMS) connectivity:
+* **openHAB Add-ons:** Contributions and bug fixes for integrations like *Tibber*, *ENTSO-E*, *SolarForecast*, and *IKEA Dirigera*.
+* **EEBUS Integration:** Exploring and connecting standardized communication protocols for smart grids, heat pumps, and EV charging infrastructure.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.ai/api?username=weymann&show_icons=true&theme=radical&hide_border=true" alt="Bernd's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weymann&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+* **GitHub:** [@weymann](https://github.com/weymann)
 <!-- View stats -->
 
 <div align=center>
