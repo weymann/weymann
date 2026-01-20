@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=weymann) 
 <!--
+Let's see what we can add here
 **weymann/weymann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
