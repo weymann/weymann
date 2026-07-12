@@ -6,8 +6,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=weymann&hide_title=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=weymann&hide_title=true&show_icons=true&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=weymann)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=weymann&card_width=400&card_height=250)](https://git.io/streak-stats)
 <!--
 https://github-stats-extended.vercel.app/api?username=weymann&hide_title=true&show_icons=true&include_all_commits=true
 
