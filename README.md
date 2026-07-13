@@ -13,7 +13,7 @@ View stats
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-stats-extended.vercel.app/api?username=weymann&hide_title=true&show_icons=true&include_all_commits=true" alt="Weymann GitHub Stats" />
+  <img width=390 src="https://github-stats-extended.vercel.app/api?username=weymann&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true" alt="Weymann GitHub Stats" />
   <img width=350 src="https://streak-stats.demolab.com?user=weymann" />
  </div>
 <br>
