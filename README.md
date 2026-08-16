@@ -1,3 +1,4 @@
+![alt text](img/IntoTheUnknown.png)
 # Hi there 👋, I'm Bernd 
 
 ### 🚀 What drives me
@@ -8,24 +9,15 @@ Now AI is arriving — faster than anything before. And that makes this the most
 
 ---
 
-### 
+### 🔥 What I do
 
 * I'm using Claude agents to develop full stack software 
 * I'm using Deep Seek Harness & Deep Seek GUI to develop full stacksoftware. My personal opinion: this becomes huge
 * I'm hosting my private AI server with sglang 
 * I use them to analysze my finances - stock portfolio, real estate, crypto & P2P lending assets
 * I use them to maintain my software portfolio - bugs, new features and firther enahncements
-* I'm using Tribuo models to forecast my energy consumption - household, hvac and battery electric vehicle
+* I'm using [Tribuo](https://tribuo.org/) models to forecast my energy consumption - household, hvac and battery electric vehicle
 
----
-
-### 💻 Tech Stack & Tools
-
-* **Languages & Core:** Java, C++, Python, JavaScript
-* **Architecture & Quality:** ASPICE, REST APIs, Microservices, Agile Product Management (PSPO I, PSPO-AI)
-* **Smart Home & IoT:** openHAB (Bindings, UI Dashboards), EEBUS Protocol, InfluxDB, Tibber API
-* **Infrastructure & DevOps:** Docker, Kubernetes, Linux (Ubuntu), Git, Local AI Testing Environments (Ollama, Open WebUI, n8n, LiteLLM)
-* **AI 
 ---
 
 ### 🛠️ Open Source & Community
