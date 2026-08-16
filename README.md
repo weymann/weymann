@@ -36,21 +36,6 @@ I am actively involved in the **openHAB** ecosystem, focusing on integrations, s
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.ai/api?username=weymann&show_icons=true&theme=radical&hide_border=true" alt="Bernd's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weymann&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 📫 Connect with me
-
-* **GitHub:** [@weymann](https://github.com/weymann)
 <!-- View stats -->
 
 <div align=center>
