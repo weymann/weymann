@@ -5,7 +5,7 @@
 
 I've been building software for 35 years — from PC applications to embedded systems, IoT, and SaaS. I've watched technology shift again and again, and I know one thing for sure: stand still, and you're done.
 
-Now AI is arriving — faster than anything before. And that makes this the most exciting moment of my career.
+Started AI coding in 2024 - gone from nice - but buggy_, to _fair_, _good_, _awesome_ to _holy shit flawless_. This is exponential growth.
 
 ---
 
