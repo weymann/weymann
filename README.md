@@ -5,26 +5,40 @@
 
 I've been building software for 35 years — from PC applications to embedded systems, IoT, and SaaS. I've watched technology shift again and again, and I know one thing for sure: stand still, and you're done.
 
-Started AI coding in 2024 - gone from nice - but buggy_, to _fair_, _good_, _awesome_ to _holy shit flawless_. This is exponential growth.
+Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _awesome_ to _holy shit flawless_. This is exponential growth.
 
 ---
 
 ### 🔥 What I do
 
 * I'm using Claude agents to develop full stack software 
-* I'm using Deep Seek Harness & Deep Seek GUI to develop full stacksoftware. My personal opinion: this becomes huge
+* I'm using Deep Seek Harness & Deep Seek GUI to develop full stack software. My personal opinion: this becomes huge
 * I'm hosting my private AI server with sglang 
-* I use them to analysze my finances - stock portfolio, real estate, crypto & P2P lending assets
-* I use them to maintain my software portfolio - bugs, new features and firther enahncements
+* I use them to analyse my finances - stock portfolio, real estate, crypto & P2P lending assets
+* I use them to maintain my software portfolio - bugs, new features and further enhancements
 * I'm using [Tribuo](https://tribuo.org/) models to forecast my energy consumption - household, hvac and battery electric vehicle
+
+### ✨ What I'm developing
+
+* Deep Seek Harness Plugins
+* Agentic workflows for personal life - finance, taxes, smarthome and development
+* EEBus openHAB Integration based on Fraunhofer OpenMUC libs
+* Home Energy Management System using several ML forecasts using Tribuo
+* Smarthome frontend - Widgets for openHAB based on framework.io
 
 ---
 
-### 🛠️ Open Source & Community
+### 🛠️ What I maintain
 
-I am actively involved in the **openHAB** ecosystem, focusing on integrations, smart metering, and Home Energy Management System (HEMS) connectivity:
-* **openHAB Add-ons:** Contributions and bug fixes for integrations like *Tibber*, *ENTSO-E*, *SolarForecast*, and *IKEA Dirigera*.
-* **EEBUS Integration:** Exploring and connecting standardized communication protocols for smart grids, heat pumps, and EV charging infrastructure.
+* I'm the codeowner of several openHAB addons from 
+  * **PV** - E3DC (Modbus), Solarforecast, Tibber, ENTSO-E
+  * **Mobility** - MercedesMe
+  * **HVAC** - Mitsubishi MELCloud Home, Bosch Thermotechnology
+  * **Home appliances** - IKEA Homesmart 
+  * **Wellness** - MSpa
+* DIY projects to integrate _ancient_ devices into modern IoT devices
+  * **Combustion Cars** as smart vehicles
+  * Analogue measurement devices into smartmeters 
 
 ---
 
