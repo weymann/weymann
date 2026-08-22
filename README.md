@@ -12,11 +12,11 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 ### 🔥 What I do
 
 * I'm using Claude agents to develop full stack software 
-* I'm using Deep Seek Harness & Deep Seek GUI to develop full stack software. My personal opinion: this becomes huge
-* I'm hosting my private AI server with sglang 
+* I'm using [Deep Seek Harness](https://github.com/deepseek-ai/deepseek-harness) & [Deep Seek GUI](https://github.com/See-Sol-Lab/DeepSeekGUI) to develop full stack software. My personal opinion: this becomes huge
+* I'm hosting LLMs on my local AI server using [sglang](https://github.com/sgl-project/sglang) 
 * I use them to analyse my finances - stock portfolio, real estate, crypto & P2P lending assets
 * I use them to maintain my software portfolio - bugs, new features and further enhancements
-* I'm using [Tribuo](https://tribuo.org/) models to forecast my energy consumption - household, hvac and battery electric vehicle
+* I'm using [Tribuo](https://tribuo.org/) machine learning to forecast my energy consumption - household, hvac and battery electric vehicle
 
 ### ✨ What I'm developing
 
