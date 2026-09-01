@@ -11,7 +11,7 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 
 ### 🔥 What I do
 
-* I'm using Claude agents to develop full stack software 
+* I'm using [Claude agents](https://github.com/weymann/openhab-claude) to develop full stack software 
 * I'm using [Deep Seek Harness](https://github.com/deepseek-ai/deepseek-harness) & [Deep Seek GUI](https://github.com/See-Sol-Lab/DeepSeekGUI) to develop full stack software. My personal opinion: this becomes huge
 * I'm hosting LLMs on my local AI server using [sglang](https://github.com/sgl-project/sglang) 
 * I use them to analyse my finances - stock portfolio, real estate, crypto & P2P lending assets
@@ -24,7 +24,7 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 * Agentic workflows for personal life - finance, taxes, smarthome and development
 * EEBus openHAB Integration based on Fraunhofer OpenMUC libs
 * Home Energy Management System using several ML forecasts using Tribuo
-* Smarthome frontend - Widgets for openHAB based on framework.io
+* Smarthome frontend - [Widgets for openHAB](https://github.com/weymann/openhab-widgets) based on framework.io
 
 ---
 
