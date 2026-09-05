@@ -18,6 +18,8 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 * I use them to maintain my software portfolio - bugs, new features and further enhancements
 * I'm using [Tribuo](https://tribuo.org/) machine learning to forecast my energy consumption - household, hvac and battery electric vehicle
 
+---
+
 ### ✨ What I'm developing
 
 * Deep Seek Harness Plugins
