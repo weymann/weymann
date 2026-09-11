@@ -39,8 +39,8 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
   * **Home appliances** - IKEA Homesmart 
   * **Wellness** - MSpa
 * DIY projects to integrate _ancient_ devices into modern IoT devices
-  * **Combustion Cars** as smart vehicles
-  * Analogue measurement devices into smartmeters 
+  * **Combustion Cars** as [smart vehicles](https://github.com/weymann/torque2mqtt)
+  * Analogue measurement devices into [smart-meters](https://github.com/weymann/smartmeter-gas) 
 
 ---
 
