@@ -33,11 +33,11 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 ### 🛠️ What I maintain
 
 * I'm the codeowner of several openHAB addons from 
-  * **PV** - E3DC (Modbus), Solarforecast, Tibber, ENTSO-E
-  * **Mobility** - MercedesMe
-  * **HVAC** - Mitsubishi MELCloud Home, Bosch Thermotechnology
-  * **Home appliances** - IKEA Homesmart 
-  * **Wellness** - MSpa
+  * **PV** - [E3DC (Modbus)](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.modbus.e3dc), [Solarforecast](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.solarforecast), [Tibber](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.tibber), [ENTSO-E](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.entsoe)
+  * **Mobility** - [MercedesMe](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.mercedesme)
+  * **HVAC** - [Mitsubishi MELCloud Home](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.melcloud), [Bosch Thermotechnology](https://github.com/weymann/OH-Drops/tree/main/boschthermotechnology)
+  * **Home appliances** - [IKEA Homesmart](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.dirigera) 
+  * **Wellness** - [MSpa](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.mspa) Whirlpools
 * DIY projects to integrate _ancient_ devices into modern IoT devices
   * **Combustion Cars** as [smart vehicles](https://github.com/weymann/torque2mqtt)
   * Analogue measurement devices into [smart-meters](https://github.com/weymann/smartmeter-gas) 
