@@ -13,7 +13,7 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 
 * I'm using [Claude agents](https://github.com/weymann/openhab-claude) to develop full stack software 
 * I'm using [Deep Seek Harness](https://github.com/deepseek-ai/deepseek-harness) & [Deep Seek GUI](https://github.com/See-Sol-Lab/DeepSeekGUI) to develop full stack software. My personal opinion: this becomes huge
-* I'm hosting LLMs on my local AI server using [sglang](https://github.com/sgl-project/sglang) 
+* I'm [hosting LLMs](https://huggingface.co/) on my local AI server using [sglang](https://github.com/sgl-project/sglang) 
 * I use them to analyse my finances - stock portfolio, real estate, crypto & P2P lending assets
 * I use them to maintain my software portfolio - bugs, new features and further enhancements
 * I'm using [Tribuo](https://tribuo.org/) machine learning to forecast my energy consumption - household, hvac and battery electric vehicle
@@ -22,9 +22,9 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 
 ### ✨ What I'm developing
 
-* Deep Seek Harness Plugins
+* Deep Seek Harness [Plugins](https://github.com/weymann/dsh-playground/tree/main/dsh-abstract-theme)
 * Agentic workflows for personal life - finance, taxes, smarthome and development
-* EEBus openHAB Integration based on Fraunhofer OpenMUC libs
+* [EEBus openHAB Integration](https://github.com/weymann/openhab-addons/tree/eebus/bundles/org.openhab.binding.eebus) based on [Fraunhofer OpenMUC libs](https://github.com/openmuc)
 * Home Energy Management System using several ML forecasts using Tribuo
 * Smarthome frontend - [Widgets for openHAB](https://github.com/weymann/openhab-widgets) based on framework.io
 
@@ -38,7 +38,7 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
   * **HVAC** - [Mitsubishi MELCloud Home](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.melcloud), [Bosch Thermotechnology](https://github.com/weymann/OH-Drops/tree/main/boschthermotechnology)
   * **Home appliances** - [IKEA Homesmart](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.dirigera) 
   * **Wellness** - [MSpa](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.mspa) Whirlpools
-* DIY projects to integrate _ancient_ devices into modern IoT devices
+* DIY projects to transform _ancient_ devices into modern IoT devices
   * **Combustion Cars** as [smart vehicles](https://github.com/weymann/torque2mqtt)
   * Analogue measurement devices into [smart-meters](https://github.com/weymann/smartmeter-gas) 
 
