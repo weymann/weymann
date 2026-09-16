@@ -14,8 +14,8 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 * I'm using [Claude agents](https://github.com/weymann/openhab-claude) to develop full stack software 
 * I'm using [Deep Seek Harness](https://github.com/deepseek-ai/deepseek-harness) & [Deep Seek GUI](https://github.com/See-Sol-Lab/DeepSeekGUI) to develop full stack software. My personal opinion: this becomes huge
 * I'm [hosting LLMs](https://huggingface.co/) on my local AI server using [sglang](https://github.com/sgl-project/sglang) 
-* I use them to analyse my finances - stock portfolio, real estate, crypto & P2P lending assets
-* I use them to maintain my software portfolio - bugs, new features and further enhancements
+* I use them to analyse my [finances](https://github.com/weymann/dsh-playground/tree/main/dsh-depot-analysis) - stock portfolio, real estate, crypto & P2P lending assets
+* I use them to maintain my [software portfolio](https://github.com/weymann/dsh-playground/tree/main/dsh-oh-issues) - bugs, new features and further enhancements
 * I'm using [Tribuo](https://tribuo.org/) machine learning to forecast my energy consumption - household, hvac and battery electric vehicle
 
 ---
@@ -23,9 +23,9 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 ### ✨ What I'm developing
 
 * Deep Seek Harness [Plugins](https://github.com/weymann/dsh-playground/tree/main/dsh-abstract-theme)
-* Agentic workflows for personal life - finance, taxes, smarthome and development
+* [Agentic workflows for personal life](https://github.com/weymann/dsh-playground) - finance, taxes, smarthome and development
 * [EEBus openHAB Integration](https://github.com/weymann/openhab-addons/tree/eebus/bundles/org.openhab.binding.eebus) based on [Fraunhofer OpenMUC libs](https://github.com/openmuc)
-* Home Energy Management System using several ML forecasts using Tribuo
+* [Home Energy Management System](https://github.com/weymann/openhab-addons/tree/curves/bundles/org.openhab.binding.curves) using several ML forecasts using Tribuo
 * Smarthome frontend - [Widgets for openHAB](https://github.com/weymann/openhab-widgets) based on framework.io
 
 ---
