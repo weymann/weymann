@@ -1,4 +1,4 @@
-![alt text](img/IntoTheUnknown.png)
+![alt text](img/IntoTheUnknownKamera.png)
 # Hi there 👋, I'm Bernd 
 
 ### 🚀 What drives me
@@ -27,20 +27,14 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 * [EEBus openHAB Integration](https://github.com/weymann/openhab-addons/tree/eebus/bundles/org.openhab.binding.eebus) based on [Fraunhofer OpenMUC libs](https://github.com/openmuc)
 * [Home Energy Management System](https://github.com/weymann/openhab-addons/tree/curves/bundles/org.openhab.binding.curves) using several ML forecasts using Tribuo
 * Smarthome frontend - [Widgets for openHAB](https://github.com/weymann/openhab-widgets) based on framework.io
-
----
-
-### 🛠️ What I maintain
-
-* I'm the codeowner of several openHAB addons from 
-  * **PV** - [E3DC (Modbus)](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.modbus.e3dc), [Solarforecast](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.solarforecast), [Tibber](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.tibber), [ENTSO-E](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.entsoe)
-  * **Mobility** - [MercedesMe](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.mercedesme)
-  * **HVAC** - [Mitsubishi MELCloud Home](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.melcloud), [Bosch Thermotechnology](https://github.com/weymann/OH-Drops/tree/main/boschthermotechnology)
-  * **Home appliances** - [IKEA Homesmart](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.dirigera) 
-  * **Wellness** - [MSpa](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.mspa) Whirlpools
+* openHAB addons for **PV** - [E3DC (Modbus)](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.modbus.e3dc), [Solarforecast](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.solarforecast), [Tibber](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.tibber), [ENTSO-E](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.entsoe)
+**Mobility** - [MercedesMe](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.mercedesme)
+**HVAC** - [Mitsubishi MELCloud Home](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.melcloud), [Bosch Thermotechnology](https://github.com/weymann/OH-Drops/tree/main/boschthermotechnology)
+**Home appliances** - [IKEA Homesmart](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.dirigera) 
+**Wellness** - [MSpa](https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.mspa) Whirlpools
 * DIY projects to transform _ancient_ devices into modern IoT devices
-  * **Combustion Cars** as [smart vehicles](https://github.com/weymann/torque2mqtt)
-  * Analogue measurement devices into [smart-meters](https://github.com/weymann/smartmeter-gas) 
+**Combustion Cars** as [smart vehicles](https://github.com/weymann/torque2mqtt)
+Analogue measurement devices into [smart-meters](https://github.com/weymann/smartmeter-gas) 
 
 ---
 
