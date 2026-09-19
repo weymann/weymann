@@ -9,7 +9,7 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 
 ---
 
-### 🔥 What I do
+### 🔥 What I use
 
 * I'm using [Claude agents](https://github.com/weymann/openhab-claude) to develop full stack software 
 * I'm using [Deep Seek Harness](https://github.com/deepseek-ai/deepseek-harness) & [Deep Seek GUI](https://github.com/See-Sol-Lab/DeepSeekGUI) to develop full stack software. My personal opinion: this becomes huge
