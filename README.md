@@ -20,7 +20,7 @@ Started AI coding in 2024 - gone from _nice - but buggy_, to _fair_, _good_, _aw
 
 ---
 
-### ✨ What I develo
+### ✨ What I develop
 
 * Deep Seek Harness [Plugins](https://github.com/weymann/dsh-playground/tree/main/dsh-abstract-theme)
 * [Agentic workflows for personal life](https://github.com/weymann/dsh-playground) - finance, taxes, smarthome and development
